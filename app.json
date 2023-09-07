@@ -33,6 +33,12 @@
         "projectId": "ff721337-878e-411a-b5f0-88607add197d"
       }
     },
-    "owner": "dali1999"
+    "owner": "dali1999",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ff721337-878e-411a-b5f0-88607add197d"
+    }
   }
 }
